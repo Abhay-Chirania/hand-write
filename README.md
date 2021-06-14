@@ -4,7 +4,7 @@ Hand gesture recognition based whiteboard that allows you to write on live webca
 ### Libaries Required to be installed. 
 
 1: Mediapipe 
-Installation Command : pip install mediapipe
+### Installation Command : pip install mediapipe
 
 2: msvc-runtime
-Installation Command :  pip install msvc-runtime
+### Installation Command :  pip install msvc-runtime
